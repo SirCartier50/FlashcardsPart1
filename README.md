@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<a href='http://i.imgur.com/link/to/your/gif/file.gif'>gif walkthrough</a>
+<a href='https://imgur.com/j1wUFeL'>gif walkthrough</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
