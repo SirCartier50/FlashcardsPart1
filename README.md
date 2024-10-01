@@ -37,7 +37,7 @@ GIF created with [Kap](https://getkap.co/) for macOS
 
 ## Notes
 
-Had issues come up with ways to get the flipping animation and when I pressed next, it didnt do anything. I first found some css from w3school on flipping animations.
+Had issues come up with ways to get the flipping animation and when I pressed next, it didnt do anything. I first found some css from w3school on flipping animations. For the next button, I found out I used True instead of true in a while loop condition, so switched it.
 
 ## License
 
