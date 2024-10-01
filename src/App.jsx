@@ -27,6 +27,7 @@ const App = () => {
     <div className="App">
       <div className="header">
         <h1>Flashcards in Space</h1>
+        <h2>flashcards about general topics of space</h2>
         <h2>Number of Cards: 6</h2>
         <Flashcard difficulty = {(Object.entries(flashcards[count]))[0][0]} question = {(Object.entries(flashcards[count]))[0][1][0]} answer={(Object.entries(flashcards[count]))[0][1][1]}/>
       </div>
